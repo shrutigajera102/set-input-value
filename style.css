@@ -1,0 +1,34 @@
+div{
+    width: 50%;
+    height: 65vh;
+    text-align: center;
+    margin: 100px;
+    margin-left: 25%;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(236, 202, 116);
+    border: 2px solid brown;
+}
+h1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#name{
+    width: 200px;
+    height: 28px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#value{
+    width: 200px;
+    height: 28px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.bt {
+    width: 15%;
+    height: 5vh;
+    background-color: rgb(177, 60, 60);
+}
